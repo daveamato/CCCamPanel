@@ -1,0 +1,76 @@
+A {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #333333;
+}
+TD,Table,TH {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	border-color:  #5c6d75;
+}
+
+Body {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #BCBCBC;
+}
+
+.tx_small {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #000000;
+}
+.tx_small_white {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+}
+
+.tx_normal_bold {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+}
+.checkbox_check {
+	background-color: #FDA697;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+.tx_normal_bold_red {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #C30;
+	font-weight: bold;
+}
+
+.tx_normal_red {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #C30;
+}
+
+.tx_normal_blue {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #0066FF;
+}
+
+
+#text {margin:50px auto; width:500px}
+.hotspot {cursor:pointer}
+
+#tt {position:absolute; display:block; background:url(../images/tt_left.gif) top left no-repeat}
+#tttop {display:block; height:5px; margin-left:5px; background:url(../images/tt_top.gif) top right no-repeat; overflow:hidden}
+#ttcont {display:block; padding:2px 12px 3px 7px; margin-left:5px; background:#666; color:#FFF}
+#ttbot {display:block; height:5px; margin-left:5px; background:url(../images/tt_bottom.gif) top right no-repeat; overflow:hidden}
